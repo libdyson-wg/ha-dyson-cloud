@@ -6,6 +6,6 @@
     "issue_tracker": "https://github.com/libdyson-wg/ha-dyson/issues",
     "dependencies": [],
     "codeowners": ["@dotvezz"],
-    "requirements": ["libdyson-neon==0.9.0"],
-    "version": "0.16.0"
+    "requirements": ["libdyson-neon==0.10.0"],
+    "version": "0.17.0"
 }
