@@ -5,7 +5,7 @@
     "documentation": "https://github.com/libdyson-wg/ha-dyson",
     "issue_tracker": "https://github.com/libdyson-wg/ha-dyson/issues",
     "dependencies": [],
-    "codeowners": ["@dotvezz"],
-    "requirements": ["libdyson-neon==0.10.0"],
-    "version": "0.17.0"
+    "codeowners": ["@libdyson-wg"],
+    "requirements": ["libdyson-neon==1.0.0"],
+    "version": "0.18.0"
 }
