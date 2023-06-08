@@ -7,5 +7,5 @@
     "dependencies": [],
     "codeowners": ["@libdyson-wg"],
     "requirements": [],
-    "version": "0.19.0"
+    "version": "0.19.1"
 }
