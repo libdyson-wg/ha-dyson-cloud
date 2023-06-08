@@ -2,10 +2,10 @@
     "domain": "dyson_cloud",
     "name": "Dyson Cloud",
     "config_flow": true,
-    "documentation": "https://github.com/libdyson-wg/ha-dyson",
-    "issue_tracker": "https://github.com/libdyson-wg/ha-dyson/issues",
+    "documentation": "https://github.com/libdyson-wg/ha-dyson-cloud",
+    "issue_tracker": "https://github.com/libdyson-wg/ha-dyson-cloud/issues",
     "dependencies": [],
     "codeowners": ["@libdyson-wg"],
-    "requirements": ["libdyson-neon==1.0.2"],
-    "version": "0.18.0"
+    "requirements": [],
+    "version": "0.19.0"
 }
